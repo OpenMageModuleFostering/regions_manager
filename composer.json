@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/regions_manager",
+    "name": "OpenMageModuleFostering\/regions_manager",
     "type": "magento-module",
     "license": "LGPL",
     "homepage": "",
     "description": "States Manager for countries drop down list",
     "authors": [
-    {
-        "name": "Mohammed Meabed",
-        "email": "mo.meabed@gmail.com"
-    }
-],
+        {
+            "name": "Mohammed Meabed",
+            "email": "mo.meabed@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
